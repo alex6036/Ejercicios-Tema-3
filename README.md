@@ -33,3 +33,29 @@ Este repositorio contiene la implementación de varios ejercicios relacionados c
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/alex6036/Ejercicios-Tema-3.git
+
+### Estructura del repositorio
+Ejercicios-Tema-3/
+│
+├── Ejercicio 1/
+│   ├── __init__.py
+│   ├── main.py
+│   └── hanoi.py
+│
+├── Ejercicio 2/
+│   ├── __init__.py
+│   ├── main.py
+│   └── matriz.py
+│
+├── Ejercicio 3/
+│   ├── __init__.py
+│   ├── main.py
+│   └── nave.py
+│
+├── Ejercicio 4/
+│   ├── __init__.py
+│   ├── main.py
+│   └── polinomio.py
+│
+├── README.md
+└── LICENSE
